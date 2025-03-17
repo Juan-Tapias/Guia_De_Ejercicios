@@ -5,3 +5,8 @@ La natación es un ejercicio completo que trabaja todo el cuerpo, mejora la resi
 - Fortalece los músculos sin impacto en las articulaciones.
 - Mejora la capacidad pulmonar y la resistencia.
 - Reduce el estrés y mejora la coordinación.
+## Instrucciones
+1. Comienza con un calentamiento de movimientos articulares fuera del agua.
+2. Nada a un ritmo moderado durante al menos 30 minutos, alternando estilos si lo deseas.
+3. Descansa entre series según tu nivel de condición física.
+4. Finaliza con un nado suave y estiramientos fuera del agua.
