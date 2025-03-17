@@ -10,3 +10,7 @@ El ciclismo es una actividad aeróbica que fortalece las piernas, mejora la resi
 2. Inicia con un pedaleo suave durante 5-10 minutos como calentamiento.
 3. Aumenta la intensidad y pedalea durante al menos 30-60 minutos.
 4. Finaliza con un pedaleo ligero y estiramientos para relajar los músculos.
+## Consejos
+- Usa equipo de seguridad como casco y luces si circulas de noche.
+- Mantén una hidratación adecuada durante el recorrido.
+- Ajusta la resistencia o el terreno para variar la intensidad del entrenamiento.
