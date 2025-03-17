@@ -10,3 +10,7 @@ El entrenamiento funcional consiste en ejercicios que imitan movimientos natural
 2. Realiza ejercicios funcionales como sentadillas, burpees, saltos y levantamientos.
 3. Mantén una buena técnica y controla la respiración.
 4. Finaliza con estiramientos y recuperación activa.
+## Consejos
+- Ajusta la intensidad según tu nivel de condición física.
+- Concéntrate en la calidad del movimiento antes que en la velocidad.
+- Usa pesos moderados y evita sobrecargar sin una técnica adecuada.
