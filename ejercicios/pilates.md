@@ -10,3 +10,8 @@ El pilates es un método de entrenamiento que fortalece el cuerpo, mejora la pos
 2. Realiza ejercicios de control del core, movilidad y estabilidad.
 3. Mantén un ritmo controlado y concéntrate en la calidad del movimiento.
 4. Finaliza con estiramientos para relajar los músculos.
+## Consejos
+- Controla la respiración en cada movimiento.
+- Enfócate en la alineación del cuerpo para evitar lesiones.
+- Sé constante para mejorar fuerza y flexibilidad con el tiempo.
+
