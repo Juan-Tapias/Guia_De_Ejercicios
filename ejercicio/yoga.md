@@ -10,3 +10,7 @@ El yoga es una práctica física y mental que combina posturas, respiración y m
 2. Realiza una serie de posturas (asanas) adaptadas a tu nivel.
 3. Mantén cada postura entre 15-30 segundos, respirando de manera controlada.
 4. Finaliza con una relajación o meditación breve.
+## Consejos
+- Practica en un lugar tranquilo y con ropa cómoda.
+- No fuerces las posturas, escucha a tu cuerpo.
+- Sé constante para notar mejoras en la flexibilidad y el equilibrio.
